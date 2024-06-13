@@ -1,0 +1,98 @@
+<html>
+    <head>
+        <title>
+            PRACTICE ONE
+        </title>
+    </head>
+    <body>
+        <h1 align="Center">HELLO  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TO PRACTICE ONE</h1>
+        <h2 align="Left">HELLO WORLD</h2>
+        <h3 align="Right">HELLO WORLD</h3>
+        <h4>HELLO WORLD</h4>
+        <h5>HELLO WORLD</h5>
+        <h6>HELLO WORLD</h6>
+        <p><b>Lorem ipsum dolor sit, amet consectetur</b>Lorem ipsum dolor sit, amet <i>consectetur adipisicing elit. Et blanditiis </i>expedita vitae <s>dolores, quos facere</s>, <u>reiciendis libero error fuga sunt dignissimos odio </u>tempora perferendis rerum cupiditate praesentium officiis id. Odio.</p>
+        <ul type="square">
+            <li>APPLE</li>
+            <li>MANGO</li>
+            <li>ORANGE</li>
+            <li>CHEERY</li>
+            <li>PINEAPPLE</li>
+            <li>AVACADO</li>
+            <li>BANANA</li>
+        </ul>
+        <ol type="A" start="3">
+            <li>APPLE</li>
+            <li>MANGO</li>
+            <li>BANANA</li>
+            <li>CHEERY</li>
+            <li>ORANGE</li>
+            <li>ANANAS</li>
+        </ol>
+        12<sup>th</sup>
+        H<sub>2</sub>0
+<dl>
+    <dt>HEADING ONE</dt>
+    <dd>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, laudantium itaque nemo iure illum officia similique eius omnis earum molestias qui saepe labore! Nam unde corporis nisi, vitae eveniet ab.</dd>
+    <dt>HEADING TWO</dt>
+    <dd>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, laudantium itaque nemo iure illum officia similique eius omnis earum molestias qui saepe labore! Nam unde corporis nisi, vitae eveniet ab.</dd>
+    <dt>HEADING THREE</dt>
+    <dd>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, laudantium itaque nemo iure illum officia similique eius omnis earum molestias qui saepe labore! Nam unde corporis nisi, vitae eveniet ab.</dd>
+</dl>
+<marquee behavior="alternate" direction="right" scrollamount="20" loop="3000" bgcolor="orange" textcolor="white" width="50%" height="40%">HELLO WORLD</marquee>
+<hr width="80%" color="red" size="20" align="center"/>
+<pre><h1>PRE TAG
+            H E L L O W O R L D
+</h1></pre>    
+<a href="practice.html">GO TO PRACTICE</a>
+<a name="top"></a><br>
+<a href="#pagetwo">GO TO PAGE TWO</a><br>
+<a href="#pagethree">GO TO PAGE THREE</a><br>
+<h1>FIRST PAGE</h1>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<a name="pagetwo"></a>
+<h1>TWO PAGE</h1>
+<a href="#top">go to top Page</a><br>
+<a href="#pagethree">GO TO PAGE THREE</a><br>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<a name="pagethree">page-three</a><br>
+<a href="#top">go to top Page</a><br>
+<h1>THREE PAGE</h1>
+<a href="#top">go to top Page</a><br>
+<a href="#pagetwo">GO TO PAGE TWO</a><br>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi voluptatibus necessitatibus quo praesentium doloribus vel, a reprehenderit ipsum enim aliquid, placeat dolor ipsa voluptate. Doloribus possimus unde sequi. Culpa, eaque.</p>
+<a href="#top">go to top Page</a>
+<a href="mailto:adil.uet11@gmail.com?cc=madilmasood12@gmail.com&subject=hello&body=tex for testing only"></a>
+</body>
+</html>
